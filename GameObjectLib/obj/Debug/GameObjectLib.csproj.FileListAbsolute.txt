@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameObjectLib\GameObjectLib\bin\Debug\GameObjectLib.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameObjectLib\GameObjectLib\bin\Debug\GameObjectLib.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameObjectLib\GameObjectLib\bin\Debug\Messaging.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameObjectLib\GameObjectLib\bin\Debug\Messaging.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameObjectLib\GameObjectLib\obj\Debug\GameObjectLib.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameObjectLib\GameObjectLib\obj\Debug\GameObjectLib.pdb

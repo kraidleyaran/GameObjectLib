@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib\bin\Release\GameObjectLib.dll
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib\bin\Release\GameObjectLib.pdb
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib\bin\Release\Messaging.dll
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib\obj\Release\GameObjectLib.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib\obj\Release\GameObjectLib.dll
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib\obj\Release\GameObjectLib.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameObjectLib\GameObjectLib\bin\Release\BinaryImageLib.dll

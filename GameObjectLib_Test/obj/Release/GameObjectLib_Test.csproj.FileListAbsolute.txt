@@ -1,0 +1,13 @@
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\GameObjectLib_Test.dll
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\GameObjectLib_Test.pdb
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\GameObjectLib.dll
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\Messaging.dll
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\nunit.framework.dll
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\GameObjectLib.pdb
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\Messaging.pdb
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\nunit.framework.xml
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\obj\Release\GameObjectLib_Test.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\obj\Release\GameObjectLib_Test.dll
+C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\obj\Release\GameObjectLib_Test.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\BinaryImageLib.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\BinaryImageLib.pdb
