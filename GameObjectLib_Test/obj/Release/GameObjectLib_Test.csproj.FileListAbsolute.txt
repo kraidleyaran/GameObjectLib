@@ -10,4 +10,3 @@ C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_
 C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\obj\Release\GameObjectLib_Test.dll
 C:\Users\Alex\Documents\visual studio 2013\Projects\GameObjectLib\GameObjectLib_Test\obj\Release\GameObjectLib_Test.pdb
 C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\BinaryImageLib.dll
-C:\Users\Alex\Documents\Visual Studio 2013\Projects\GameObjectLib\GameObjectLib_Test\bin\Release\BinaryImageLib.pdb

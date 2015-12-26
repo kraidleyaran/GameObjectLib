@@ -187,5 +187,10 @@ namespace GameObjectLib
         {
             return EditorImage != null;
         }
+
+        public int GetPropertyCount()
+        {
+            return _properties.Count();
+        }
     }
 }
